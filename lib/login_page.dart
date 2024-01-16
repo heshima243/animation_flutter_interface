@@ -62,7 +62,7 @@ class LoginPage extends StatelessWidget {
             ),
             const SizedBox(height: 35),
             const LoginForm(),
-            const SizedBox(height: 125),
+            const SizedBox(height: 65),
             DelayedAnimation(
               delay: 5500,
               child: ElevatedButton(
